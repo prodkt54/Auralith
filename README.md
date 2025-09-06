@@ -6,11 +6,12 @@ Dự án nhằm mục đích tạo một nhạc cụ ảo nhỏ gọn để họ
 ---
 
 ## ✨ Tính năng hiện tại
-- Oscillator cơ bản: **sine wave**.  
-- Hệ thống **real-time audio callback**.  
-- Code ngắn gọn, dễ đọc và dễ mở rộng.  
+- Oscillator cơ bản: **sine / square / saw**  
+- **3xOSC**: trộn tối đa **3 oscillator** để tạo âm thanh phong phú hơn  
+- Hệ thống **real-time audio callback**  
+- Code ngắn gọn, dễ đọc và dễ mở rộng  
 
-> ⚠️ Hiện tại **chưa hỗ trợ ADSR envelope** – chỉ phát âm thanh thô.
+> ⚠️ Hiện tại **chưa có ADSR envelope** và **chưa hỗ trợ noise oscillator**.
 
 ---
 
@@ -18,7 +19,7 @@ Dự án nhằm mục đích tạo một nhạc cụ ảo nhỏ gọn để họ
 ### Yêu cầu
 - Windows  
 - MSVC (Visual Studio 2019/2022)  
-- [Raylib](https://www.raylib.com/) (đã build sẵn hoặc dùng nuget/vcpkg)
+- [Raylib](https://www.raylib.com/) (cài bằng vcpkg hoặc build thủ công)
 
 ### Build
 1. Clone repo:
