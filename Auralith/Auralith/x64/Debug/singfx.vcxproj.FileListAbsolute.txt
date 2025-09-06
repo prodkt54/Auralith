@@ -1,0 +1,3 @@
+D:\Code\GUI\singfx\Auralith\x64\Debug\raylib.dll
+D:\Code\GUI\singfx\Auralith\x64\Debug\glfw3.dll
+D:\Code\GUI\singfx\Auralith\Auralith\x64\Debug\singfx.vcxproj.Up2Date

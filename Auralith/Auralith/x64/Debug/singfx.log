@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\Code\GUI\singfx\Auralith\main.cpp(51,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Code\GUI\singfx\Auralith\main.cpp(51,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Code\GUI\singfx\Auralith\main.cpp(63,27): warning C4838: conversion from 'int' to 'unsigned char' requires a narrowing conversion
+D:\Code\GUI\singfx\Auralith\main.cpp(63,30): warning C4838: conversion from 'int' to 'unsigned char' requires a narrowing conversion
+D:\Code\GUI\singfx\Auralith\main.cpp(63,33): warning C4838: conversion from 'int' to 'unsigned char' requires a narrowing conversion
+D:\Code\GUI\singfx\Auralith\main.cpp(104,25): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  singfx.vcxproj -> D:\Code\GUI\singfx\Auralith\x64\Debug\Auralith.exe
